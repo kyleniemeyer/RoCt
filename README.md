@@ -6,7 +6,7 @@
 (rock•et, or /ˈɹɑkɪt/), is a Python software package that performs calculations related 
 to rocket engines. RoCt uses the [Cantera](https://cantera.org/) library to handle 
 thermodynamics and chemical equilibrium, and is meant to be a modern alternative to
-the classic NASA [CEA](https://cearun.grc.nasa.gov/cea/ceaHome.htm program.
+the classic NASA [CEA](https://cearun.grc.nasa.gov/cea/ceaHome.htm) program.
 
 ## Contributing
 
